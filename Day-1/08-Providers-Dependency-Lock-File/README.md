@@ -124,7 +124,7 @@ terraform apply
 ```
 - **Error Message**
 ```log
-Kalyans-MacBook-Pro:terraform-manifests kdaida$ terraform plan
+nizams-MacBook-Pro:terraform-manifests nshaikh$ terraform plan
 ╷
 │ Error: Unsupported argument
 │ 
@@ -133,7 +133,7 @@ Kalyans-MacBook-Pro:terraform-manifests kdaida$ terraform plan
 │ 
 │ An argument named "account_encryption_source" is not expected here.
 ╵
-Kalyans-MacBook-Pro:terraform-manifests kdaida$ 
+nizams-MacBook-Pro:terraform-manifests nshaikh$ 
 ```
 
 ## Step-07: Comment account_encryption_source
@@ -167,7 +167,7 @@ provider "azurerm" {
 ```
 - Error Log of features block not present 
 ```log
-Kalyans-MacBook-Pro:terraform-manifests kdaida$ terraform plan
+nizams-MacBook-Pro:terraform-manifests nshaikh$ terraform plan
 ╷
 │ Error: Insufficient features blocks
 │ 
@@ -176,7 +176,7 @@ Kalyans-MacBook-Pro:terraform-manifests kdaida$ terraform plan
 │ 
 │ At least 1 "features" blocks are required.
 ╵
-Kalyans-MacBook-Pro:terraform-manifests kdaida$ 
+nizams-MacBook-Pro:terraform-manifests nshaikh$ 
 
 ```
 

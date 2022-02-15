@@ -60,7 +60,7 @@ variable "tdpolicy" {
 db_name = "mydb101"
 db_storage_mb = 5120
 db_auto_grow_enabled = true
-tdpolicy = [true, 10, true, [ "dkalyanreddy@gmail.com", "stacksimplify@gmail.com" ]]
+tdpolicy = [true, 10, true, [ "dnizamshaikh@gmail.com", "stacksimplify@gmail.com" ]]
 ```
 
 ## Step-05: Add the Threat Detection Policy Block in c4-azure-mysql-database.tf
@@ -71,7 +71,7 @@ tdpolicy = [true, 10, true, [ "dkalyanreddy@gmail.com", "stacksimplify@gmail.com
     enabled = true
     retention_days = 10
     email_account_admins = true
-    email_addresses = [ "dkalyanreddy@gmail.com", "stacksimplify@gmail.com" ]
+    email_addresses = [ "dnizamshaikh@gmail.com", "stacksimplify@gmail.com" ]
   }  
 
 # With Structural Type tuple() defined in Variables

@@ -65,7 +65,7 @@ terraform plan
 Observation: Should fail
 
 # Sample Ouput
-Kalyans-MacBook-Pro:terraform-manifests kdaida$ terraform plan
+nizams-MacBook-Pro:terraform-manifests nshaikh$ terraform plan
 ╷
 │ Error: Unsupported attribute
 │ 
@@ -74,7 +74,7 @@ Kalyans-MacBook-Pro:terraform-manifests kdaida$ terraform plan
 │ 
 │ This object does not have an attribute named "name".
 ╵
-Kalyans-MacBook-Pro:terraform-manifests kdaida$ 
+nizams-MacBook-Pro:terraform-manifests nshaikh$ 
 
 ```
 

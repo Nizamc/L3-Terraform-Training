@@ -43,7 +43,7 @@ terraform validate
 1. It should fail
 
 # Sample Output
-Kalyans-MacBook-Pro:terraform-manifests kdaida$ terraform validate
+nizams-MacBook-Pro:terraform-manifests nshaikh$ terraform validate
 ╷
 │ Error: Missing resource instance key
 │ 
@@ -55,7 +55,7 @@ Kalyans-MacBook-Pro:terraform-manifests kdaida$ terraform validate
 │ 
 │ For example, to correlate with indices of a referring resource, use:
 │     azurerm_virtual_network.myvnet[count.index]
-Kalyans-MacBook-Pro:terraform-manifests kdaida$ 
+nizams-MacBook-Pro:terraform-manifests nshaikh$ 
 
 ```
 

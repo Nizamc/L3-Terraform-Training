@@ -354,7 +354,7 @@ rm -rf v2plan.out
 
 ## Step-10: Put all Terraform Configs back for students at demo level
 ```t
-# Kalyan - Not to forgot to change these things after Recording for students seamless demo
+# nizamuddin - Not to forgot to change these things after Recording for students seamless demo
 Change-1: c5-virtual-network.tf (Change back to base demo state)
 # Create Virtual Network
 resource "azurerm_virtual_network" "myvnet" {     # Comment during step-05-02

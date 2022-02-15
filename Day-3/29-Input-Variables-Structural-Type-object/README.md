@@ -62,7 +62,7 @@ tdpolicy = {
     enabled = true
     retention_days = 10
     email_account_admins = true
-    email_addresses = [ "dkalyanreddy@gmail.com", "stacksimplify@gmail.com" ]
+    email_addresses = [ "nizamuddin.shaikh@atos.net", "nizam.chapala@gmail.com" ]
 }
 ```
 
@@ -74,7 +74,7 @@ tdpolicy = {
     enabled = true
     retention_days = 10
     email_account_admins = true
-    email_addresses = [ "dkalyanreddy@gmail.com", "stacksimplify@gmail.com" ]
+    email_addresses = [ "nizamuddin.shaikh@atos.net", "nizam.chapala@gmail.com" ]
   }  
 
 # With Structural Type object() defined in Variables

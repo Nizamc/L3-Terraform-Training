@@ -18,10 +18,10 @@ description: Learn Terraform Resource Meta-Argument for_each toset
 terraform console
 
 # All Strings to Strings
-toset(["kalyan", "reddy", "daida"])
+toset(["nizamuddin", "shaikh", "atos"])
 
 # Mixed Type (Strings and Numbers) - Converted to Strings 
-toset(["kalyan", "reddy", 123, 456])
+toset(["nizamuddin", "shaikh", 123, 456])
 
 # Removes duplicates (Set collections are unordered and cannot contain duplicate values,) 
 toset(["z", "k", "r", "a", "k"])

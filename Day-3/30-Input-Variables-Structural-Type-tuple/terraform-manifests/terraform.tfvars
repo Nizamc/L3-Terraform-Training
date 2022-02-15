@@ -14,6 +14,6 @@ db_auto_grow_enabled = true
     enabled = true
     retention_days = 10
     email_account_admins = true
-    email_addresses = [ "dkalyanreddy@gmail.com", "stacksimplify@gmail.com" ]
+    email_addresses = [ "dnizamshaikh@gmail.com", "stacksimplify@gmail.com" ]
 }*/
-tdpolicy = [true, 10, true, [ "dkalyanreddy@gmail.com", "stacksimplify@gmail.com" ]]
+tdpolicy = [true, 10, true, [ "dnizamshaikh@gmail.com", "stacksimplify@gmail.com" ]]

@@ -91,13 +91,13 @@ resource "azurerm_public_ip" "mypublicip" {
 ```t
 # Terraform console
 terraform console
-element(["kalyan", "reddy", "daida"], 0)
-element(["kalyan", "reddy", "daida"], 1)
-element(["kalyan", "reddy", "daida"], 2)
+element(["nizamuddin", "shaikh", "atos"], 0)
+element(["nizamuddin", "shaikh", "atos"], 1)
+element(["nizamuddin", "shaikh", "atos"], 2)
 
 # To get last element from list
-length(["kalyan", "reddy", "daida"])
-element(["kalyan", "reddy", "daida"], length(["kalyan", "reddy", "daida"])-1)
+length(["nizamuddin", "shaikh", "atos"])
+element(["nizamuddin", "shaikh", "atos"], length(["nizamuddin", "shaikh", "atos"])-1)
 ```
 
 ## Step-07: terraform-manifests-v2 - c3-virtual-network.tf

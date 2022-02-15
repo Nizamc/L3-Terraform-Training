@@ -72,12 +72,12 @@ terraform console
 
 # Test lower() function
 Template: lower("STRING")
-lower("KALYAN REDDY")
+lower("nizamuddin shaikh")
 lower("STACKSIMPLIFY")
 
 # Test upper() function
 Template: lower("string")
-upper("kalyan reddy")
+upper("nizamuddin shaikh")
 upper("stacksimplify")
 ```
 

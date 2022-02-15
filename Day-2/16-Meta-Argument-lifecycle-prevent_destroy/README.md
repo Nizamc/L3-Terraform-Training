@@ -51,7 +51,7 @@ terraform destroy
 ```
 - **Sample Output when we run destroy**
 ```log
-Kalyans-MacBook-Pro:v7-terraform-manifests kdaida$ terraform apply -auto-approve
+nizams-MacBook-Pro:v7-terraform-manifests nshaikh$ terraform apply -auto-approve
 random_string.myrandom: Refreshing state... [id=xpeska]
 azurerm_resource_group.myrg: Refreshing state... [id=/subscriptions/82808767-144c-4c66-a320-b30791668b0a/resourceGroups/myrg-1]
 azurerm_virtual_network.myvnet: Refreshing state... [id=/subscriptions/82808767-144c-4c66-a320-b30791668b0a/resourceGroups/myrg-1/providers/Microsoft.Network/virtualNetworks/myvnet-1]
@@ -66,7 +66,7 @@ azurerm_virtual_network.myvnet: Refreshing state... [id=/subscriptions/82808767-
 │ with the plan, either disable lifecycle.prevent_destroy or reduce the scope of the
 │ plan using the -target flag.
 ╵
-Kalyans-MacBook-Pro:v7-terraform-manifests kdaida$ 
+nizams-MacBook-Pro:v7-terraform-manifests nshaikh$ 
 ```
 
 ## Step-05: Comment Lifecycle block to destroy Resources

@@ -186,7 +186,7 @@ Observation:
 2. Go to Settings -> Connection Security -> Add Client IP (Add your Public IP) -> Click on Save
 3. Run MySQL Commands and Verify "webappdb1" schema got created
 Template: mysql -h <Azure DB Server Name> -u <Server admin login name> -pH@Sh1CoR3!
-kalyan@MyLocalDesktop:~$ mysql -h it-dev-mydb101.mysql.database.azure.com -u mydbadmin@it-dev-mydb101 -pH@Sh1CoR3!
+nizamuddin@MyLocalDesktop:~$ mysql -h it-dev-mydb101.mysql.database.azure.com -u mydbadmin@it-dev-mydb101 -pH@Sh1CoR3!
 mysql> show schemas;
 mysql> exit
 
