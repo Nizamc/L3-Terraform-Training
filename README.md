@@ -1,6 +1,6 @@
 # Azure - HashiCorp Certified: Terraform Associate - 50 demos
 
-https://github.com/Nizamc/hashicorp-certified-terraform-associate-on-azure
+https://github.com/Nizamc/L3-Terraform-Training
 
 
 ## Course Modules
@@ -90,8 +90,8 @@ Day-5
 - Anyone who want to learn Terraform from a practical perspective 
 
 ## Github Repositories used for this course
-- [HashiCorp Certified: Terraform Associate on Azure](https://github.com/Nizamc/hashicorp-certified-terraform-associate-on-azure)
-- [Course PPT Presentation](https://github.com/Nizamc/hashicorp-certified-terraform-associate-on-azure/course-presentation)
+- [HashiCorp Certified: Terraform Associate on Azure](https://github.com/Nizamc/L3-Terraform-Training)
+- [Course PPT Presentation](https://github.com/Nizamc/L3-Terraform-Training/course-presentation)
 - **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
 
 
